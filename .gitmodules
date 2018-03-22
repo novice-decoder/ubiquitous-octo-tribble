@@ -1,3 +1,6 @@
 [submodule "hypertrack/hypertrack-ruby"]
 	path = hypertrack/hypertrack-ruby
 	url = git@github.com:utsavkesharwani/hypertrack-ruby.git
+[submodule "node-app/legendary-system"]
+	path = node-app/legendary-system
+	url = git@github.com:utsavkesharwani/legendary-system.git
