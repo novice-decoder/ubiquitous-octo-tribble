@@ -1,0 +1,3 @@
+[submodule "hypertrack/hypertrack-ruby"]
+	path = hypertrack/hypertrack-ruby
+	url = git@github.com:utsavkesharwani/hypertrack-ruby.git
